@@ -1,1 +1,1 @@
-# Campus_Valley
+This project is a traveller's landing page website designed to showcase my skills as a web developer. It providing visitors to book their trip by this website.In this , I used HTML5 & CSS for structuring and styling the website layout.It offers a one-stop destination for travelers to explore various tour packages, destinations, and travel itineraries, providing everything they need to plan their next adventure.
